@@ -1,0 +1,11 @@
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.csprojAssemblyReference.cache
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.MainForm.resources
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.Properties.Resources.resources
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.csproj.GenerateResource.cache
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.csproj.CoreCompileInputs.cache
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\bin\Debug\ImgManagement.exe.config
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\bin\Debug\ImgManagement.exe
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\bin\Debug\ImgManagement.pdb
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.exe
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.pdb
+D:\MyWork\Work1107-C#ImageSystem\ImgManagement\ImgManagement\obj\Debug\ImgManagement.LoadImageForm.resources
